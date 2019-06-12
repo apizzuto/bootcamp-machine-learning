@@ -2,6 +2,8 @@
 
 Materials for a talk given on an introduction to Machine Learning and Boosted Decision Trees for the IceCube 2019 Bootcamp. Slides can be found at https://github.com/apizzuto/bootcamp-machine-learning/Bootcamp-Machine-Learning.slides.html
 
+Much of the material that went into these slides came from James Bourbeau's previous talks on Machine Learning. Find him on [GitHub](https://github.com/jrbourbeau/).
+
 ## Installation
 
 The dependencies for generating the slides are:
@@ -11,14 +13,16 @@ The dependencies for generating the slides are:
 - `jupyter`
 - `scikit-learn`
 - `matplotlib`
+- `seaborn`
+- `graphviz`
 
 ### Using `conda`
 
 A `conda` environment with these dependencies installed can be created via:
 
 ```bash
-conda env create --file environment.yml
-source activate bootcamp-ml-2019
+conda env create --file bootcampML.yml
+source activate bootcampML
 ```
 
 ### Using `pip`
