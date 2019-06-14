@@ -1,6 +1,6 @@
 # An Introduction to Machine Learning
 
-Materials for a talk given on an introduction to Machine Learning and Boosted Decision Trees for the IceCube 2019 Bootcamp. Slides can be found at https://github.com/apizzuto/bootcamp-machine-learning/Bootcamp-Machine-Learning.slides.html
+Materials for a talk given on an introduction to Machine Learning and Boosted Decision Trees for the IceCube 2019 Bootcamp. Slides are available here in html or pdf formats
 
 Much of the material that went into these slides came from James Bourbeau's previous talks on Machine Learning. Find him on [GitHub](https://github.com/jrbourbeau/).
 
